@@ -145,6 +145,9 @@ section:last-of-type {
     color: rgb(214, 203, 214)
 }
 
+.payroll-list, .taxes-list{
+    text-align: left
+}
 /* .portfolio-modal{
     position: relative;
     background: transparent;
