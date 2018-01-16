@@ -149,6 +149,9 @@ section:last-of-type {
     text-align: left;
     list-style: none;
 }
+#taxes-link{
+    text-decoration: none;
+}
 /* .portfolio-modal{
     position: relative;
     background: transparent;
